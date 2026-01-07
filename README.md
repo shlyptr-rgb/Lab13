@@ -8,7 +8,9 @@ Setelah berhasil masuk, pengguna akan diarahkan ke Dashboard Utama yang berfungs
 
 -Navigasi Halaman (Pagination): Tombol angka di bagian bawah untuk berpindah antar halaman katalog dengan lancar.
 
--Tombol Buy Now: Akses cepat bagi pembeli untuk langsung melakukan pemesanan produk yang dipilih.<img width="1024" height="534" alt="image" src="https://github.com/user-attachments/assets/a6778f55-ab42-473c-8c24-ed008c221343" /><img width="1915" height="1000" alt="image" src="https://github.com/user-attachments/assets/bb41d3d3-80a3-48d9-95e7-70ec0f009e26" />
+-Tombol Buy Now: Akses cepat bagi pembeli untuk langsung melakukan pemesanan produk yang dipilih.<img width="1909" height="1007" alt="image" src="https://github.com/user-attachments/assets/fbd1abf9-263e-40c9-b7f4-8173e29a8c21" /><img width="1915" height="600" alt="image" src="https://github.com/user-attachments/assets/6115ee29-8b27-4db9-bce2-183640a8f0fc" />
+
+
 
 
 
