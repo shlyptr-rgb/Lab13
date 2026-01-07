@@ -30,7 +30,8 @@ Dashboard Admin:
 
 -Logistik & Pengiriman: Admin bisa melihat alamat tujuan, nomor WhatsApp pembeli, dan menginput serta memantau No. Resi kurir (J&T Express) untuk setiap pesanan yang masuk.
 
--Navigasi Sidebar: Terdapat menu navigasi di sisi kiri untuk berpindah cepat antara Dashboard, daftar Pesanan, atau kembali ke halaman utama toko.<img width="1913" height="997" alt="image" src="https://github.com/user-attachments/assets/fda72395-0911-40ba-9a6e-4bbb6133158a" />
+-Navigasi Sidebar: Terdapat menu navigasi di sisi kiri untuk berpindah cepat antara Dashboard, daftar Pesanan, atau kembali ke halaman utama toko.<img width="1913" height="723" alt="image" src="https://github.com/user-attachments/assets/f9709e5f-b103-4517-8a11-2f069672ffc7" />
+
 
 
 
