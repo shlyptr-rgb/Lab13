@@ -1,4 +1,4 @@
-Halaman ini menunjukkan sistem Login yang berfungsi sebagai gerbang keamanan untuk memvalidasi identitas pengguna sekaligus membedakan hak akses antara User dan Admin dalam satu platform.<img width="1915" height="1001" alt="image" src="https://github.com/user-attachments/assets/ea30cc06-6f26-4063-b7d5-193f9252861f" />
+Halaman ini menunjukkan sistem Login yang berfungsi sebagai gerbang keamanan untuk memvalidasi identitas pengguna sekaligus membedakan hak akses antara User dan Admin dalam satu platform.<img width="1915" height="1003" alt="image" src="https://github.com/user-attachments/assets/65024f84-c392-4378-9509-21d39c166fc2" />
 
 Setelah berhasil masuk, pengguna akan diarahkan ke Dashboard Utama yang berfungsi sebagai katalog produk interaktif bagi pembeli untuk menjelajahi koleksi sepatu secara real-time. Di dalam dashboard ini terdapat berbagai fitur fungsional, seperti:
 
