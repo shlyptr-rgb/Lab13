@@ -14,7 +14,7 @@ Setelah berhasil masuk, pengguna akan diarahkan ke Dashboard Utama yang berfungs
 
 Halaman Checkout: Form khusus bagi pembeli yang telah mengklik Buy Now untuk mengisi rincian pesanan seperti nama lengkap, nomor WhatsApp, alamat pengiriman, serta memilih Size sepatu yang diinginkan.<img width="1915" height="1002" alt="image" src="https://github.com/user-attachments/assets/91a58233-2972-4723-9407-2b06b30ae136" />
 
-Terakhir, setelah pesanan dikonfirmasi, pengguna akan menerima Invoice/Struk Belanja otomatis yang berisi rincian total pembayaran, metode transfer, hingga nomor resi kurir J&T Express sebagai bukti transaksi yang sah.<img width="1914" height="1006" alt="image" src="https://github.com/user-attachments/assets/aea2a5e0-fe2b-461b-a3e2-40d02087a06c" />
+Terakhir, setelah pesanan dikonfirmasi, pengguna akan menerima Invoice/Struk Belanja otomatis yang berisi rincian total pembayaran, metode transfer, hingga nomor resi kurir J&T Express sebagai bukti transaksi yang sah.<img width="1912" height="1000" alt="image" src="https://github.com/user-attachments/assets/8069fc77-085a-4cd5-8aa8-ad90f8419f6d" />
 
 Dashboard Admin:
 
