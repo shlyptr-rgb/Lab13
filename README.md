@@ -8,7 +8,8 @@ Setelah berhasil masuk, pengguna akan diarahkan ke Dashboard Utama yang berfungs
 
 -Navigasi Halaman (Pagination): Tombol angka di bagian bawah untuk berpindah antar halaman katalog dengan lancar.
 
--Tombol Buy Now: Akses cepat bagi pembeli untuk langsung melakukan pemesanan produk yang dipilih.<img width="1915" height="978" alt="image" src="https://github.com/user-attachments/assets/c5723383-c42d-407d-b6c1-acc4f08d5ba4" /><img width="1914" height="994" alt="image" src="https://github.com/user-attachments/assets/285311f5-3ddf-4bc2-93b3-c6adca1943db" />
+-Tombol Buy Now: Akses cepat bagi pembeli untuk langsung melakukan pemesanan produk yang dipilih.<img width="1915" height="1002" alt="image" src="https://github.com/user-attachments/assets/05a2183b-a336-46c3-b6f2-86f12bdd031f" />
+ /><img width="1914" height="994" alt="image" src="https://github.com/user-attachments/assets/285311f5-3ddf-4bc2-93b3-c6adca1943db" />
 
 
 Halaman Checkout: Form khusus bagi pembeli yang telah mengklik Buy Now untuk mengisi rincian pesanan seperti nama lengkap, nomor WhatsApp, alamat pengiriman, serta memilih Size sepatu yang diinginkan.<img width="1908" height="996" alt="image" src="https://github.com/user-attachments/assets/d062edd9-9e74-406f-9199-255faf4b4439" />
