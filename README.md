@@ -20,6 +20,8 @@ Dashboard Admin:
 
 -Manajemen Produk (CRUD): Terdapat tombol Tambah Produk serta opsi Edit dan Hapus pada setiap baris data untuk mengelola informasi sepatu secara langsung.
 
+-Fitur Logout (Tombol Keluar): Terletak di pojok kiri bawah pada bagian sidebar, tombol ini berfungsi untuk mengakhiri sesi admin secara aman dan kembali ke halaman login.
+
 -Detail Stok & Size: Admin bisa memantau jumlah stok yang siap (Ready) beserta rincian ukuran (Size) yang tersedia untuk setiap item.<img width="1915" height="1001" alt="image" src="https://github.com/user-attachments/assets/8eaafe4c-abef-4079-b6b8-0bab49948dc8" />
 
 -Daftar Pesanan Masuk: Halaman ini merangkum semua transaksi dari pembeli, mencakup data waktu pesanan, nama pembeli, detail produk yang dibeli, hingga total pembayaran.
