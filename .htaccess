@@ -1,0 +1,9 @@
+RewriteEngine On
+
+# Hilangkan ekstensi .php dari URL
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^\/]+)/?$ $1.php [L]
+
+# Opsional: Paksa HTTPS atau setting dasar lainnya
+Options -Indexes
