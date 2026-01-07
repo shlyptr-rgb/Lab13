@@ -10,6 +10,9 @@ Setelah berhasil masuk, pengguna akan diarahkan ke Dashboard Utama yang berfungs
 
 -Tombol Buy Now: Akses cepat bagi pembeli untuk langsung melakukan pemesanan produk yang dipilih.<img width="1915" height="1003" alt="image" src="https://github.com/user-attachments/assets/282fd347-4e06-4145-9cce-aed13d3a3446" /><img width="1915" height="1000" alt="image" src="https://github.com/user-attachments/assets/9e613837-1748-47ce-b4f5-6c56e0935b54" />
 
+Halaman Checkout: Setelah klik tombol "Buy Now", pembeli diarahkan ke form ini untuk mengisi data diri, ukuran sepatu, alamat pengiriman, dan instruksi pembayaran via transfer.<img width="1908" height="996" alt="image" src="https://github.com/user-attachments/assets/d062edd9-9e74-406f-9199-255faf4b4439" />
+
+
 
 
 
